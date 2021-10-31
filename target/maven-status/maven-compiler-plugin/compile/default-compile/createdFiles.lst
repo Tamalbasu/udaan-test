@@ -1,0 +1,11 @@
+com\udaan\test\model\Login.class
+com\udaan\test\config\SwaggerConfig.class
+com\udaan\test\service\CovidService.class
+com\udaan\test\service\impl\LoginServiceImpl.class
+com\udaan\test\service\LoginService.class
+com\udaan\test\ApiApplication.class
+com\udaan\test\config\WebSecurityConfig.class
+com\udaan\test\model\Registration.class
+com\udaan\test\controller\HelloController.class
+com\udaan\test\service\impl\CovidServiceImpl.class
+com\udaan\test\repository\UserRepository.class
